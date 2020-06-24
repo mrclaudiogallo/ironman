@@ -1,0 +1,32 @@
+body {
+    background-color: #333333;
+    line-height: 1.5;
+}
+
+.container {
+    width: 600px;
+    margin: 0 auto;
+    color: aliceblue;    
+}
+
+h1 {
+    color: red;
+}
+
+.blue {
+    color: blue;
+}
+
+.white {
+    color: white;
+}
+
+.mainimage {
+    margin-left: 200px;
+    margin-top: 70px;
+}
+
+header {
+    text-align: center;
+}
+
